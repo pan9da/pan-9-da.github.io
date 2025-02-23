@@ -36,7 +36,7 @@ collections:
 navigation:
   - title: 主页 Home
     link: /
-  - title: wdnmd Research
+  - title: stage Research
     link: /research.html
   - title: 论文 Publications
     link: /publications.html
