@@ -1,5 +1,5 @@
 name: 肖航课题组  Xiao Research Group
-url: https://xiaohang007.github.io/
+url: https://pan-9-da.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -36,7 +36,7 @@ collections:
 navigation:
   - title: 主页 Home
     link: /
-  - title: 科研项目 Research
+  - title: 科研 Research
     link: /research.html
   - title: 论文 Publications
     link: /publications.html
